@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahir-tawhid&label=Profile%20views&color=0e75b6&style=flat" alt="jahir-tawhid" /> </p>
 
-- 🔭 I’m currently working on **One Year Academy Project Since June 2024**
+- 🔭 I’m currently working on **One Year Academy Project from June 2024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
