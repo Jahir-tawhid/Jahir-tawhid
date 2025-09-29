@@ -19,5 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahir-tawhid&show_icons=true&locale=en&layout=compact" alt="jahir-tawhid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahir-tawhid&" alt="jahir-tawhid" /></p>
-
