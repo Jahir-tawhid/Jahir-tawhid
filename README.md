@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript | MongoDB | Express.js | React .js | Node.js**
 
-- 💬 Ask me about **React .js, JavaScript**
+- 💬 Ask me about **React .js & JavaScript**
 
 - 📫 How to reach me **www.jahirtawhid1988@gmail.com**
 
@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahirtawhid&show_icons=true&locale=en&layout=compact" alt="jahirtawhid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahirtawhid&show_icons=true&locale=en" alt="jahirtawhid" /></p>
+
+Live link: https://jahir-tawhid.github.io/Jahir-tawhid/
