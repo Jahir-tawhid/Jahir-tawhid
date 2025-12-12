@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript | MongoDB | Express.js | React .js | Node.js**
 
-- 💬 Ask me about **React .js & JavaScript**
+- 💬 Ask me about  **React .js & JavaScript**
 
 - 📫 How to reach me **www.jahirtawhid1988@gmail.com**
 
