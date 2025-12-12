@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahirtawhid&label=Profile%20views&color=0e75b6&style=flat" alt="jahirtawhid" /> </p>
 
-- 🔭 I’m currently working on **One Year Academy Project as a Junior Developer from June 2024**
+- 🔭 I’m currently working on **One Year Academy Project as a Internship from June 2024**
 
 - 🌱 I’m currently learning **JavaScript | MongoDB | Express.js | React .js | Node.js**
 
-- 💬 Ask me about **React .js**
+- 💬 Ask me about **React .js, JavaScript**
 
 - 📫 How to reach me **www.jahirtawhid1988@gmail.com**
 
