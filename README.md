@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahirtawhid&show_icons=true&locale=en&layout=compact" alt="jahirtawhid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahirtawhid&show_icons=true&locale=en" alt="jahirtawhid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahir-tawhid&show_icons=true&locale=en" alt="jahir-tawhid" /></p>
 
 Live link: https://jahir-tawhid.github.io/Jahir-tawhid/
