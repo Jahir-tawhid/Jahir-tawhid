@@ -41,6 +41,46 @@ I am a passionate **MERN Stack Developer** with a strong focus on building scala
 </p>
 
 ---
+---
+
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Full Stack E-Commerce App</h4>
+      <p>A complete MERN application with user authentication, product filtering, and payment gateway integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📁 GitHub Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Academy Management System</h4>
+      <p>Ongoing internship project focused on student management, course enrollment, and admin dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📁 GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<details>
+  <summary><b>🔥 Click to see more projects</b></summary>
+  <ul>
+    <li><b>Portfolio Website:</b> Built with Next.js and Tailwind CSS. <a href="#">[Link]</a></li>
+    <li><b>Task Manager:</b> A productivity tool using Redux and Node.js. <a href="#">[Link]</a></li>
+    <li><b>Weather App:</b> Real-time weather data using Fetch API. <a href="#">[Link]</a></li>
+  </ul>
+</details>
 
 ### 🤝 Connect With Me
 <p align="left">
