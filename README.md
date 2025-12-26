@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Md. Jahirul Islam 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;Front-end+Developer;Problem+Solver;Learning AI-Enhanced MERN Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;Front-end+Developer;Problem+Solver;Learning+AI+Enhanced+MERN+Stack" alt="Typing SVG" />
 </p>
 
 <p align="left">
