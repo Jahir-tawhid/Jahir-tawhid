@@ -13,7 +13,7 @@ I'm a passionate **MERN Stack Developer** with a focus on building interactive a
 
 * 🔭 I’m currently working on **One Year Academy Project** as an **Intern** (since June 2024)
 * 🌱 I’m currently learning **Advanced System Design and Next.js optimization**
-* 💬 Ask me about **React.js, Node.js & JavaScript**
+* 💬 Ask me about **Next.js, React.js, TypeScript & JavaScript**
 * 📫 How to reach me: **[jahirtawhid1988@gmail.com](mailto:jahirtawhid1988@gmail.com)**
 
 ---
