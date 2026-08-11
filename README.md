@@ -128,8 +128,8 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahir-tawhid&show_icons=true&theme=tokyonight" alt="Jahir's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahir-tawhid&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jahir-tawhid&show_icons=true&theme=tokyonight" alt="Jahir's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jahir-tawhid&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
@@ -137,16 +137,19 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/Jahir-tawhid" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jahir-tawhid" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jahirtawhid1988@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="jahirtawhid1988" height="30" width="40" />
+  &nbsp;
+  <a href="mailto:jahirtawhid1988@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://fb.com/jahir.tawhid" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahir.tawhid" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/jahir.tawhid" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahir.tawhid" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
