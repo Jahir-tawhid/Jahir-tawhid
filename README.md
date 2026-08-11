@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solutions. As a **Next.js & React Specialist**, I love solving complex problems, building scalable web applications, and turning ideas into clean, efficient code.
 
-* 🌐 **Live Portfolio:** [jahir-tawhid.vercel.app](https://jahir-tawhid.vercel.app)
+* 🌐 **Live Portfolio:** [my-portfolio-rouge-rho-73.vercel.app](https://my-portfolio-rouge-rho-73.vercel.app)
 * 🚀 Working on web development projects since **June 2024**
 * 📞 Phone: **+8801733411311**
 * 📫 How to reach me: **[jahirtawhid1988@gmail.com](mailto:jahirtawhid1988@gmail.com)**
@@ -70,7 +70,7 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <a href="https://jahir-tawhid.vercel.app" target="_blank">🔗 Live Demo</a>
+      <a href="https://my-portfolio-rouge-rho-73.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h4>🎯 Makkah Dream Job Tracker</h4>
