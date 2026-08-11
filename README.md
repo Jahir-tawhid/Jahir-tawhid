@@ -128,8 +128,8 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jahir-tawhid&show_icons=true&theme=tokyonight" alt="Jahir's GitHub stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jahir-tawhid&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jahir-tawhid&show_icons=true&theme=tokyonight" alt="Jahir's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jahir-tawhid&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
