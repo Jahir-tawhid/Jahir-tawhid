@@ -49,6 +49,18 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
       <a href="https://my-portfolio-9ek9xiq1e-jahir-tawhids-projects.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
+      <h4>🎯 Makkah Dream Job Tracker</h4>
+      <p>Smart job application tracking dashboard for career management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <a href="https://makkah-dream-job-tracker.vercel.app" target="_blank">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🤖 Menuwise AI</h4>
       <p>AI-powered smart menu management SaaS application.</p>
       <p>
@@ -58,8 +70,6 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
       </p>
       <a href="https://menuwise-ai-eight.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>📄 AI Resume & Cover Letter Generator</h4>
       <p>Smart web tool to generate professional resumes and cover letters using AI.</p>
@@ -70,6 +80,8 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
       </p>
       <a href="https://ai-resume-cover-letter-generator-one.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🏥 Doctor Appointment Booking</h4>
       <p>Comprehensive healthcare booking portal for patients and doctors.</p>
@@ -80,8 +92,6 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
       </p>
       <a href="https://doctor-appointment-booking-nu-seven.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🌤️ Smart Weather App</h4>
       <p>Real-time weather forecast web application with dynamic background/data.</p>
@@ -91,6 +101,8 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
       </p>
       <a href="https://smart-weather-9ev20btbd-jahir-tawhids-projects.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>📝 Next.js Dev Blog</h4>
       <p>Modern developer blog platform for technical writing and sharing tutorials.</p>
@@ -100,9 +112,7 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
       </p>
       <a href="https://nextjs-dev-blog-five.vercel.app" target="_blank">🔗 Live Demo</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h4>🛠️ My Smart Utilities</h4>
       <p>All-in-one utility tools web application for daily productivity tasks.</p>
       <p>
