@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Md. Jahirul Islam 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;Front-end+Developer;Problem+Solver;Learning+AI+Enhanced+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=600&lines=Full-Stack+Web+Developer;AI+%26+SaaS+Focused;Next.js+%26+React+Specialist;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -9,11 +9,12 @@
 </p>
 
 ### 👨‍💻 About Me
-I'm a passionate **MERN Stack Developer** with a focus on building interactive and user-friendly web applications. Currently honing my skills as an intern, I love solving complex problems and turning ideas into clean, efficient code.
+I'm a **Full-Stack Web Developer** focused on building modern **AI & SaaS** solutions. As a **Next.js & React Specialist**, I love solving complex problems, building scalable web applications, and turning ideas into clean, efficient code.
 
-* 🔭 I’m currently working on **One Year Academy Project** as an **Intern** (since June 2024)
-* 🌱 I’m currently learning **Advanced System Design and Next.js optimization**
-* 💬 Ask me about  **Next.js, React.js, TypeScript & JavaScript**
+* 🌐 **Live Portfolio:** [my-portfolio-3rcx-81be961qm-jahir-tawhids-projects.vercel.app](https://my-portfolio-3rcx-81be961qm-jahir-tawhids-projects.vercel.app)
+* 🔭 I’m currently working on **AI & SaaS Web Applications**
+* 🌱 I’m currently learning **Advanced System Design, AI API Integrations, and Next.js optimization**
+* 💬 Ask me about **Next.js, React.js, TypeScript, JavaScript & AI Integration**
 * 📫 How to reach me: **[jahirtawhid1988@gmail.com](mailto:jahirtawhid1988@gmail.com)**
 
 ---
@@ -22,12 +23,12 @@ I'm a passionate **MERN Stack Developer** with a focus on building interactive a
 
 **Frontend & Design:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,ps,ai" />
 </p>
 
 **Backend & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel,git,github,postman,jest" />
 </p>
 
 ---
@@ -38,23 +39,23 @@ I'm a passionate **MERN Stack Developer** with a focus on building interactive a
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Full Stack E-Commerce App</h4>
-      <p>A complete MERN application with user authentication, product filtering, and payment integration.</p>
+      <p>A complete web application with user authentication, product filtering, and payment integration.</p>
       <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <a href="https://github.com/jahir-tawhid">🔗 Repo Link</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Academy Management System</h4>
-      <p>Ongoing internship project focused on student management and admin dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <a href="https://github.com/jahir-tawhid">🔗 Repo Link</a>
+      <a href="https://my-portfolio-3rcx-81be961qm-jahir-tawhids-projects.vercel.app">🌐 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI SaaS Platform</h4>
+      <p>Modern SaaS application integrated with AI APIs and custom dashboard capabilities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <a href="https://my-portfolio-3rcx-81be961qm-jahir-tawhids-projects.vercel.app">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -80,5 +81,3 @@ I'm a passionate **MERN Stack Developer** with a focus on building interactive a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
 </p>
-
-Live Link: https://jahir-tawhid.github.io/Jahir-tawhid/
