@@ -1,11 +1,35 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Md. Jahirul Islam 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md.%20Jahirul%20Islam%20👋&fontSize=42&fontColor=fff&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <strong>🚀 Full-Stack Web Developer | AI & SaaS Focused | Next.js & React Specialist</strong>
+</p>
+
+<p align="center">
+  📍 Bangladesh &nbsp;•&nbsp; ✉️ <a href="mailto:jahirtawhid1988@gmail.com">jahirtawhid1988@gmail.com</a> &nbsp;•&nbsp; 📞 +8801733411311
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Jahir-tawhid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jahir-tawhid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:jahirtawhid1988@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 👋 Hi, I'm Md. Jahirul Islam
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=600&lines=Full-Stack+Web+Developer;AI+%26+SaaS+Focused;Next.js+%26+React+Specialist;Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jahir-tawhid&label=Profile%20views&color=0e75b6&style=flat" alt="jahir-tawhid" />
 </p>
 
 ### 👨‍💻 About Me
@@ -134,25 +158,29 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
 
 ---
 
-### 🤝 Connect With Me
+### 📬 Connect With Me
 <p align="left">
+  <a href="mailto:jahirtawhid1988@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/Jahir-tawhid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:jahirtawhid1988@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://github.com/jahir-tawhid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://fb.com/jahir.tawhid" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/jahir.tawhid" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=jahir-tawhid&label=PROFILE%20VIEWS&color=8a2be2&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </p>
