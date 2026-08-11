@@ -53,7 +53,8 @@ I'm a passionate **Full-Stack Web Developer** focusing on **AI & SaaS** solution
 
 **Backend & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel,git,github,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma,supabase,mongodb,firebase,vercel,git,github,postman,jest" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="40" />
 </p>
 
 ---
